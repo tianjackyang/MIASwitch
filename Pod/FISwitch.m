@@ -7,6 +7,7 @@
 //
 
 #import "FISwitch.h"
+#import "MIADefine.h"
 
 #define ZJSwitchMaxHeight 32.0f
 #define ZJSwitchMinHeight 31.0f
